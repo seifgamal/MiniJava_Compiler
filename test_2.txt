@@ -1,0 +1,25 @@
+class Main {
+	public static void main ( String [] Identifier ) {
+		x = true;
+		a[i] = this.length;
+		
+		a[i] = this.len(3, true);
+		
+		x = x.get();
+	}
+}
+
+class Something {
+	public static int Main() {
+		return x;
+	}
+	
+	static boolean OK(int x, int y, boolean is) {
+		if (this.length == 5)
+			t = new int[4];
+			
+		if (x + x == 5) {
+			Parser.parse();
+		}
+	}
+}
